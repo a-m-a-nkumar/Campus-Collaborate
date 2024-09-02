@@ -37,3 +37,4 @@ Campus Collaborate is a platform designed for students to collaborate, showcase 
   ```bash
     flutter run
   ```
+**NOTE**- The backend part of this project can be found at https://github.com/im-sparrow05/BackendCampusCollaborate.
