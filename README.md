@@ -23,43 +23,43 @@ Campus Collaborate is a platform designed for students to collaborate, showcase 
 Campus-Collaborate/
 └── lib/
     ├── chats/
-    │   ├── models/
-    │   │   ├── conversation.dart
-    │   │   └── message.dart
-    │   ├── providers/
-    │   │   └── database_provider.dart
-    │   └── screens/
-    │       ├── chat_splash_screen.dart
-    │       ├── dm_chat_screen.dart
-    │       ├── dm_message_screen.dart
-    │       ├── group_chat_screen.dart
-    │       └── group_message_screen.dart
+        ├── models/
+            ├── conversation.dart
+            └── message.dart
+        ├── providers/
+            └── database_provider.dart
+        └── screens/
+            ├── chat_splash_screen.dart
+            ├── dm_chat_screen.dart
+            ├── dm_message_screen.dart
+            ├── group_chat_screen.dart
+            └── group_message_screen.dart
     ├── constants/
     ├── models/
     ├── screens/
-    │   ├── bottom_nav_bar_screen.dart
-    │   ├── create_project_screen.dart
-    │   ├── home_screen.dart
-    │   ├── login_screen.dart
-    │   ├── new_course_review_screen.dart
-    │   ├── new_help_request_screen.dart
-    │   ├── other_user_profile_screen.dart
-    │   ├── profile_screen.dart
-    │   ├── project_screen.dart
-    │   ├── splash_screen.dart
-    │   └── test_screen.dart
+        ├── bottom_nav_bar_screen.dart
+        ├── create_project_screen.dart
+        ├── home_screen.dart
+        ├── login_screen.dart
+        ├── new_course_review_screen.dart
+        ├── new_help_request_screen.dart
+        ├── other_user_profile_screen.dart
+        ├── profile_screen.dart
+        ├── project_screen.dart
+        ├── splash_screen.dart
+        └── test_screen.dart
     ├── services/
-    │   ├── contributor_cross.dart
-    │   ├── docs_and_images.dart
-    │   ├── drop_down_services.dart
-    │   ├── nav_bar_services.dart
-    │   ├── navigation_services.dart
-    │   ├── reset_providers.dart
-    │   └── roll_number_decoder.dart
+        ├── contributor_cross.dart
+        ├── docs_and_images.dart
+        ├── drop_down_services.dart
+        ├── nav_bar_services.dart
+        ├── navigation_services.dart
+        ├── reset_providers.dart
+        └── roll_number_decoder.dart
     ├── widgets/
-    │   ├── commonWidgets/
-    │   └── createProjectScreen/
-    │       └── image_collage.dart
+        ├── commonWidgets/
+        └── createProjectScreen/
+            └── image_collage.dart
     ├── firebase_options.dart
     ├── locator.dart
     ├── main.dart
